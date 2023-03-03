@@ -1,6 +1,6 @@
 # Fitting and interpretting the rota et al. (2016) occupancy model for interacting species
 
-This repo is for this blog post here:
+This repo is for this blog post [here](https://masonfidino.com/interpret_rota_model/).
 
 
 If you are here that means you are likely interested in running the code from that post. The R sub-folder pretty much has all you need.
